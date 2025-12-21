@@ -22,6 +22,25 @@ It can be used for projects such as:
 - Application server
 - Other SBC-based use cases
 
+## Compatible Components
+
+The components listed below are **mechanically and electrically compatible** with the enclosure design.
+
+> **Note:**  
+> Only **one power supply** and **one voltage regulator** are required.  
+> Multiple options are listed to provide alternative compatible parts.
+
+| Category          | Component                             | Notes                                                                       | Link                                              |
+| ----------------- | ------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------- |
+| Power Supply      | 12V Power Supply                      | Choose **one** compatible power supply as the main power input              | https://aliexpress.com/item/1005007384009922.html |
+| Power Supply      | 12V Power Supply (alternative)        | Alternative compatible power supply                                         | https://aliexpress.com/item/1005007292767666.html |
+| Voltage Regulator | 5V DC Voltage Regulator               | Choose **one** compatible regulator to step down from 12V to 5V for the SBC | https://aliexpress.com/item/1005007384626696.html |
+| Voltage Regulator | 5V DC Voltage Regulator (alternative) | Alternative compatible model                                                | https://aliexpress.com/item/1005008520047850.html |
+| Storage Adapter   | M.2 to Dual SATA Adapter              | Enables connection of two SATA drives via M.2                               | https://aliexpress.com/item/1005004426464683.html |
+| Power Connector   | Molex Connector for HDD               | Power connector for 3.5″ HDDs                                               | https://aliexpress.com/item/1005004831094459.html |
+| USB Connector     | 90-degree USB Connector               | Angled USB connector to fit enclosure layout                                | https://aliexpress.com/item/1005009712372737.html |
+| Storage           | 3.5″ HDD                              | Standard 3.5″ SATA hard drives are compatible                               | Any standard 3.5″ SATA HDD                        |
+
 ## Tools
 
 - **FreeCAD**: version **1.0.2 (stable)**
