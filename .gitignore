@@ -1,4 +1,5 @@
 *.FCStd~
+*.FCBak
 *.bak
 *.tmp
 *.log

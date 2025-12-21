@@ -39,6 +39,7 @@ The components listed below are **mechanically and electrically compatible** wit
 | Storage Adapter   | M.2 to Dual SATA Adapter              | Enables connection of two SATA drives via M.2                               | https://aliexpress.com/item/1005004426464683.html |
 | Power Connector   | Molex Connector for HDD               | Power connector for 3.5″ HDDs                                               | https://aliexpress.com/item/1005004831094459.html |
 | USB Connector     | 90-degree USB Connector               | Angled USB connector to fit enclosure layout                                | https://aliexpress.com/item/1005009712372737.html |
+| Switch            | Standard Switch                       | Button KCD11-101                                                            | https://aliexpress.com/item/1005004124751042.html |
 | Storage           | 3.5″ HDD                              | Standard 3.5″ SATA hard drives are compatible                               | Any standard 3.5″ SATA HDD                        |
 
 ## Tools
