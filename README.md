@@ -22,6 +22,15 @@ It can be used for projects such as:
 - Application server
 - Other SBC-based use cases
 
+## Photos
+
+Current prototype photos from the printed enclosure:
+
+| ![Front view](images/20251216_093740.jpg) | ![Board side](images/20251216_120151.jpg) | ![Top angle](images/20251216_164345.jpg) |
+| --- | --- | --- |
+| ![Rear view](images/20251216_172309.jpg) | ![PSU space](images/20251216_232232.jpg) | ![Drive bay 1](images/20251216_232258.jpg) |
+| ![Drive bay 2](images/20251216_232314.jpg) | ![Interior](images/20251221_210752.jpg) | ![Mounted HDDs](images/20251224_181627.jpg) |
+
 ## Compatible Components
 
 The components listed below are **mechanically and electrically compatible** with the enclosure design.
